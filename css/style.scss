@@ -286,8 +286,8 @@ body{
             background-repeat: no-repeat;
             vertical-align: bottom;
             @include im {
-              width: 30*$spw;
-              height: 30*$spw;
+              width: 26*$spw;
+              height: 26*$spw;
             }
           }
           &::after{
@@ -300,8 +300,8 @@ body{
             background-repeat: no-repeat;
             vertical-align: bottom;
             @include im {
-              width: 30*$spw;
-              height: 30*$spw;
+              width: 26*$spw;
+              height: 26*$spw;
             }
           }
         }
